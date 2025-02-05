@@ -1,0 +1,9 @@
+# Ignore virtual environment
+.venv/
+backend/.venv/
+
+# Ignore certificates
+*.pem
+
+# Ignore environment variables
+.env
