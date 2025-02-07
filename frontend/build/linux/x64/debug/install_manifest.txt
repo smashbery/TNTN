@@ -1,0 +1,12 @@
+/home/smash/TNTN_Frontend/build/linux/x64/debug/bundle/my_project_name
+/home/smash/TNTN_Frontend/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/smash/TNTN_Frontend/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/smash/TNTN_Frontend/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/smash/TNTN_Frontend/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/smash/TNTN_Frontend/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/smash/TNTN_Frontend/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/smash/TNTN_Frontend/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/smash/TNTN_Frontend/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/smash/TNTN_Frontend/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/smash/TNTN_Frontend/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/smash/TNTN_Frontend/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
