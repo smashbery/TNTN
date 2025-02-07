@@ -1,9 +1,43 @@
-# Ignore virtual environment
-.venv/
-backend/.venv/
+# Flutter/Dart-related files
+.dart_tool/
+.build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock
 
-# Ignore certificates
-*.pem
+# Platform-Specific (Android, iOS, Linux, MacOS, Windows)
+android/
+ios/
+linux/
+macos/
+windows/
+web/
 
-# Ignore environment variables
-.env
+# Build artifacts
+build/
+out/
+dist/
+*.log
+*.lock
+
+# IDE Config Files
+.idea/
+.vscode/
+*.iml
+
+# macOS / Linux System Files
+.DS_Store
+*.swp
+.svn/
+.history
+
+# Generated Xcode files
+xcuserdata/
+DerivedData/
+*.xcworkspace
+
+# Miscellaneous
+*.class
+*.pyc
+*.swp
